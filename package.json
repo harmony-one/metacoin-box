@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "@harmony-js/core": "^0.1.55",
+    "tslib": "^2.0.3"
+  }
+}
